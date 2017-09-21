@@ -2,13 +2,13 @@
     "name": "Hammurabi",
     "channel_id": "da-rules",
     "token": "Hammurabi",
-    "avatar": "08020439.jpg",
+    "avatar": "08020439/jpg",
     "guild_id": "199737254929760256",
     "id": "223704706495545344",
     "user": {
         "username": "Hammurabi",
         "discriminator": "7479",
         "id": "190320984123768832",
-        "avatar": "08020439.jpg"
+        "avatar": "08020439/jpg"
     }
 }
